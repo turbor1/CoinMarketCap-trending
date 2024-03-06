@@ -9,9 +9,11 @@
 - Dexscreen: from 4000$
 
 ### requirements
-- CMC:
-- Volumes: 1kk
-- lead time 24 hours
+```
+ CMC:
+ Volumes: 1kk
+ lead time 24 hours
+```
 
 - Dextools ETH:
 - dexscore 81+
