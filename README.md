@@ -9,15 +9,15 @@
 - Dexscreen: from 4000$
 
 **requirements**
-CMC:
-Volumes: 1kk
-lead time 24 hours
+- CMC:
+- Volumes: 1kk
+- lead time 24 hours
 
-Dextools ETH:
-dexscore 81+
-liq 150+
-vol 300k+
-Transacrion per hours 20-50
+- Dextools ETH:
+- dexscore 81+
+- liq 150+
+- vol 300k+
+- Transacrion per hours 20-50
 
 **We are engaged in high-quality trending service, all the hours for which you were outside the top - we compensate, attention! minimum requirements are required so as not to get a shadow ban on the coin, so before purchasing from us, write if you have ordered similar services before**
 
