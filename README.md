@@ -13,7 +13,7 @@
 - 150k Liq 
 - 300k Vol
 - 30+ Trans
-**💰Price:**
+- 💰Price:
 - 8h 1.5k$
 - 12h 2.8k$
 - 24h 5k$
@@ -22,7 +22,7 @@
 - 150k Liq
 - 200k+ Vol
 - 50+ Trans
-**💰Price:**
+- 💰Price:
 - 8h 1k$
 - 12h 2.2k$
 - 24h 4k$ 
@@ -36,13 +36,13 @@
 
 **🟢🔥Top 1-3:**
 - 5M+ Vol
-**💰Price:**
+- 💰Price:
 - 24h 6k$
 **(payment accepted 50% before the trend starts and 50% after the trend starts at 4am UTC)**
 
 **🟢🔥Top 4-10:**
 - 1.5M+ Vol
-**💰Price:**
+- 💰Price:
 - 24h 4k$
 **(payment accepted 50% before the trend starts and 50% after the trend starts at 4am UTC)**
 
