@@ -1,5 +1,6 @@
 
-![1_04YdGUYlpnHk1pgwWQO-uQ](https://github.com/turbor1/CoinMarketCap-trending/assets/155108454/9389b1a3-8574-4d8c-b4ae-5900a9c53a4b)
+![1667004221_1-celes-club-p-chernii-kosmos-oboi-instagram-1 копия](https://github.com/turbor1/CoinMarketCap-trending/assets/155108454/d53e970f-4441-46dd-bb97-b31579f334f2)
+
 
 
 **All prices for 24h.**
@@ -7,8 +8,28 @@
 - CMC Trending TOP 1-3: 6000$
 - CMC Trending TOP 4-10: 5000$
 
-- Dextools Trending TOP 1-3: 6000$
-- Dextools Trending TOP 4-10: 5000$
+Dextools Trending: 
+conditions for a trend:
+
+🟢ETH: top 1-10🔥
+150k Liq 
+300k Vol
+30+ Trans
+💰Price: 
+8h 1.5k$
+12h 2.8k$
+24h 5k$
+
+🟢BNB chain:🔥top 1-10
+150k Liq
+200k+ Vol
+50+ Trans
+💰Price:
+8h 1k$
+12h 2.2k$
+24h 4k$ 
+
+payment is made an hour after entering the trend.
 
 - Dexscreen: from 4000$
 
